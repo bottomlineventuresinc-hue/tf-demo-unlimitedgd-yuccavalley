@@ -1,0 +1,20 @@
+PHOTO SOURCES · hs-078-unlimitedgd Unlimited Garage Doors & Gates (Wave 16 2026-10-02 PT)
+All CC0 / public domain (Wikimedia Commons CC0/PD, Flickr CC0/PDM, rawpixel CC0, StockSnap CC0) or prior verified Wave library.
+New Wave 16 files: see builds/_assets_dl/wave16/SOURCES.tsv and its sources log for source URLs and terms.
+Every file opened and checked for trade fit and job-label fit. No face is used or captioned as the owner or crew.
+Sample B/A photos are labeled on page as stock images typical of this kind of job.
+
+hero-site.jpg <- wave16/garage-modern-brick.jpg : Brick house with a dark sectional door (rawpixel CC0 1.0 https://www.rawpixel.com/image/6078539/29026-02)
+services-trade.jpg <- wave16/gate-wood-drive.jpg : Wood driveway gate between stucco pillars (flickr Public Domain Mark 1.0 https://www.flickr.com/photos/7552532@N07/49413629587)
+people-crew.jpg <- wave16/garage-green-pair.jpg : Two green roll-up doors in a stucco wall (rawpixel CC0 1.0 https://www.rawpixel.com/image/432396/free-photo-image-architecture-big-door-cobble-stones)
+people-marek.jpg <- wave16/garage-black-wide.jpg : Wide black metal door in a pale wall (rawpixel CC0 1.0 https://www.rawpixel.com/image/3288034/free-photo-image-cc0-creative-commons)
+people-tom.jpg <- wave16/gate-white-wood.jpg : White wood gate in a garden wall (stocksnap CC0 1.0 https://stocksnap.io/photo/white-gate-E59FCE993B)
+coverage-house.jpg <- wave16/garage-stone-house.jpg : Stone house with paneled doors and a drive (rawpixel CC0 1.0 https://www.rawpixel.com/image/6080648/original-public-domain-image-from-flickr)
+garage-blue-old.jpg <- wave16/garage-blue-old.jpg : Old blue swing doors on a concrete wall, before new work (flickr CC0 1.0 https://www.flickr.com/photos/51686021@N07/30504278367)
+garage-blue-brick.jpg <- wave16/garage-blue-brick.jpg : Blue door set in a brick wall (rawpixel CC0 1.0 https://www.rawpixel.com/image/6024322/blue-garage-door-free-public-domain-cc0-photo)
+garage-detached-old.jpg <- wave16/garage-detached-old.jpg : Old detached outbuilding with a worn door, before new work (wikimedia Public domain https://commons.wikimedia.org/wiki/File:Meisner_house_garage_from_W.JPG)
+garage-grey-carriage.jpg <- wave16/garage-grey-carriage.jpg : Grey carriage-style doors in a brick wall (stocksnap CC0 1.0 https://stocksnap.io/photo/gate-door-49CD4070BA)
+garage-shed-snow.jpg <- wave16/garage-shed-snow.jpg : Old wooden garage in snow, black and white, before new work (rawpixel CC0 1.0 https://www.rawpixel.com/image/6752879/photo-image-wooden-bombs-black)
+garage-white-roll.jpg <- wave16/garage-white-roll.jpg : White door on a concrete wall (stocksnap CC0 1.0 https://stocksnap.io/photo/garage-door-HMRWTT0XQN)
+
+Note: New trade (garage doors and gates): wave16 set shared with hs-077, no photo used on both pages and no person in any photo. Services come from the license class only, kept generic: garage door and gate installation and repair, and door operators; no brands, no promotional offers, no response-time claims. The page uses the license name without a company suffix (the packet notes a separate filing; the license is a sole ownership). CEO call: no personal name anywhere, only the business wordmark and 'the owner'; the page does not claim the owner answers every call (the packet notes workers' comp). The same-name domain in the packet (a parked page) is never mentioned or linked, and no domain appears on the page. The other address in the packet notes is NOT used; the same-name business in another state is not named.
